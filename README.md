@@ -3,13 +3,10 @@
 Undergraduate Student
 
 
-The University of Iowa | Iowa City, Iowa
+The University of Iowa | Iowa City, Iowa | Class of 2022
 
 
-Major: Business Analytics and Information Systems
+Major: Business Analytics and Information Systems | Tippie College of Business
 
 
-Tippie College of Business
-
-
-pronounds: he/him/his
+Pronounds: he/him/his
